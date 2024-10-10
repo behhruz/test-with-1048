@@ -17,3 +17,36 @@
     line-height: 56px;
     margin-left: 500px;
 }
+
+.asd {
+    display: flex;
+    gap: 250px;
+    max-width: 1320px;
+    margin: auto;
+}
+
+.h3 {
+    width: 434px;
+    height: 113px;
+    font-size: 36px;
+    line-height: 56px;
+    font-weight: 700;
+}
+
+.text {
+    width: 434px;
+    height: 121px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.btn2 {
+    width: 200px;
+    height: 56px;
+    border-radius: 55px;
+    background-color: white;
+    border: 1px solid #458FF6;
+    font-size: 18px;
+    font-weight: 700;
+}
