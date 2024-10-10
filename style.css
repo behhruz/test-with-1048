@@ -1,12 +1,16 @@
-.card{
-width: 380px;
-padding: 30px;
-display: flex;
-align-items: center;
-justify-content: center;
-flex-direction: column;
-gap: 20px;
+.card {
+    width: 380px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: azure;
+    border: none;
+    border-radius: 20px;
 }
-.in_thos{
-    color: greygi;
+
+.in_thos {
+    color: grey;
 }
