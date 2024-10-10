@@ -1,0 +1,12 @@
+.card{
+width: 380px;
+padding: 30px;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+gap: 20px;
+}
+.in_thos{
+    color: greygi;
+}
