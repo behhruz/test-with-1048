@@ -14,3 +14,14 @@
 .in_thos {
     color: grey;
 }
+.all-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ 
+}
+.conteiner{
+    width: 1400px;
+    margin: 0 auto;
+
+}
