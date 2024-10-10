@@ -1,3 +1,19 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    font-family: "Mulish";
+}
+.read{
+    color:  #4089ED;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.Disease{
+    font-size: 21px;
+}
+
+
 .card {
     width: 380px;
     padding: 0px;
@@ -24,4 +40,7 @@
     width: 1400px;
     margin: 0 auto;
 
+}
+.text-disable{
+    padding: 15px;
 }
