@@ -1,0 +1,19 @@
+.btn {
+    width: 200px;
+    height: 56px;
+    border-radius: 55px;
+    background-color: white;
+    border: 1px solid #458FF6;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 620px;
+}
+
+.title {
+    width: 462px;
+    height: 56px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    margin-left: 500px;
+}
