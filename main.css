@@ -1,0 +1,26 @@
+.our-info {
+    text-align: center;
+    margin: 96px 0 50px 0;
+
+}
+
+.our-item {
+    margin-bottom: 50px;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 71px;
+}
+
+.our-text {
+    font-size: 18px;
+    font-weight: 700;
+    color: #7D7987;
+}
+
+.card-info {
+    transition: all ease-in-out 0.2s;
+    width: 380px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 5px 20px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 0px;
+    border-radius: 20px;
+}
