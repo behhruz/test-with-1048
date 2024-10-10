@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    font-family: Mulish, sans-serif;
+}
+
+.container {
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-list {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-wrapper {
+    margin: 56px 0 86px 0;
+}
+
+.nav-link {
+    font-size: 20px;
+    color: #2b2a2a87;
+    transition: all ease-in-out 0.2s;
+
+}
+
+.nav-link:hover {
+    transition: all ease-in-out 0.2s;
+    font-size: 20px;
+    color: #000000e6;
+}
